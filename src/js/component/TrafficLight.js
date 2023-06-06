@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 export const TrafficLight = () => {
  
-	const [ selectedColor, setSelectedColor] = useState("green");
+	const [ selectedColor, setSelectedColor] = useState("");
 	//let str = "";
 	//if(selectedColor === "red") str = " glow"
  
